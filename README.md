@@ -8,5 +8,5 @@ Keylogger written in python.
 - Shows the window name in which the key is recorded.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDQ5MzY2NF19
+eyJoaXN0b3J5IjpbMTYzOTk1NTQyNF19
 -->
